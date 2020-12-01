@@ -1,0 +1,945 @@
+# depslib dependency file v1.0
+1512962905 source:c:\users\ahmed\desktop\oop\item.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1512957307 c:\users\ahmed\desktop\oop\item.h
+
+1512957450 c:\users\ahmed\desktop\oop\person.h
+
+1512962905 source:c:\users\ahmed\desktop\oop\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1512962905 source:c:\users\ahmed\desktop\oop\person.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1512962905 source:c:\users\ahmed\desktop\oop\customer.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1512960664 c:\users\ahmed\desktop\oop\time.h
+
+1512964693 c:\users\ahmed\desktop\oop\stock.h
+
+1512965259 c:\users\ahmed\desktop\oop\customer.h
+
+1512964775 source:c:\users\ahmed\desktop\oop\stock.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1512962905 source:c:\users\ahmed\desktop\oop\time.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1512965259 c:\users\ahmed\desktop\oop\admin.h
+
+1512965064 source:c:\users\ahmed\desktop\oop\admin.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513411595 source:g:\second year\programming ii\assignment\project\oop\customer.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1512957307 g:\second year\programming ii\assignment\project\oop\item.h
+
+1512957450 g:\second year\programming ii\assignment\project\oop\person.h
+
+1513394109 g:\second year\programming ii\assignment\project\oop\time.h
+
+1513397392 g:\second year\programming ii\assignment\project\oop\stock.h
+
+1513410014 g:\second year\programming ii\assignment\project\oop\customer.h
+
+1513404778 g:\second year\programming ii\assignment\project\oop\admin.h
+
+1513392821 source:g:\second year\programming ii\assignment\project\oop\item.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513411566 source:g:\second year\programming ii\assignment\project\oop\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513392821 source:g:\second year\programming ii\assignment\project\oop\person.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513398744 source:g:\second year\programming ii\assignment\project\oop\stock.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513410194 source:g:\second year\programming ii\assignment\project\oop\time.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	<ctime>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513410719 source:g:\second year\programming ii\assignment\project\oop\admin.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513636747 source:d:\#fci-cu #second_year\oop\admin.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513689128 d:\#fci-cu #second_year\oop\item.h
+
+1513689115 d:\#fci-cu #second_year\oop\person.h
+
+1513689115 d:\#fci-cu #second_year\oop\time.h
+
+1513694405 d:\#fci-cu #second_year\oop\stock.h
+
+1513689115 d:\#fci-cu #second_year\oop\customer.h
+
+1513689159 d:\#fci-cu #second_year\oop\admin.h
+
+1513635760 source:d:\#fci-cu #second_year\oop\customer.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513634971 source:d:\#fci-cu #second_year\oop\item.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513690943 source:d:\#fci-cu #second_year\oop\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513392821 source:d:\#fci-cu #second_year\oop\person.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513688795 source:d:\#fci-cu #second_year\oop\stock.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513632965 source:d:\#fci-cu #second_year\oop\time.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	<ctime>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513634971 source:d:\#fci-cu #second_year\project\item.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513694738 d:\#fci-cu #second_year\project\item.h
+
+1513694737 d:\#fci-cu #second_year\project\person.h
+
+1513694736 d:\#fci-cu #second_year\project\time.h
+
+1513694740 d:\#fci-cu #second_year\project\stock.h
+
+1513801958 d:\#fci-cu #second_year\project\customer.h
+
+1513776079 d:\#fci-cu #second_year\project\admin.h
+
+1513392821 source:d:\#fci-cu #second_year\project\person.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513720233 source:d:\#fci-cu #second_year\project\admin.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513694741 source:d:\#fci-cu #second_year\project\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513694739 source:d:\#fci-cu #second_year\project\stock.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513694734 source:d:\#fci-cu #second_year\project\time.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	<ctime>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513776190 source:d:\#fci-cu #second_year\project\customer.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513986747 source:c:\users\lenovo\desktop\project\admin.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513894715 c:\users\lenovo\desktop\project\item.h
+
+1513894714 c:\users\lenovo\desktop\project\person.h
+
+1513894713 c:\users\lenovo\desktop\project\time.h
+
+1513982278 c:\users\lenovo\desktop\project\stock.h
+
+1513947490 c:\users\lenovo\desktop\project\customer.h
+
+1513986278 c:\users\lenovo\desktop\project\admin.h
+
+1513874444 source:c:\users\lenovo\desktop\project\item.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513982278 source:c:\users\lenovo\desktop\project\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513392821 source:c:\users\lenovo\desktop\project\person.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513983998 source:c:\users\lenovo\desktop\project\stock.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513982677 source:c:\users\lenovo\desktop\project\time.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	<ctime>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513982677 source:c:\users\lenovo\desktop\project\customer.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1514051754 source:g:\second year\programming ii\assignment\project\20160016\project\admin.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513894715 g:\second year\programming ii\assignment\project\20160016\project\item.h
+
+1513894714 g:\second year\programming ii\assignment\project\20160016\project\person.h
+
+1513894713 g:\second year\programming ii\assignment\project\20160016\project\time.h
+
+1513982278 g:\second year\programming ii\assignment\project\20160016\project\stock.h
+
+1513947490 g:\second year\programming ii\assignment\project\20160016\project\customer.h
+
+1513986278 g:\second year\programming ii\assignment\project\20160016\project\admin.h
+
+1513982677 source:g:\second year\programming ii\assignment\project\20160016\project\customer.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513874444 source:g:\second year\programming ii\assignment\project\20160016\project\item.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1514051664 source:g:\second year\programming ii\assignment\project\20160016\project\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513392821 source:g:\second year\programming ii\assignment\project\20160016\project\person.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513983998 source:g:\second year\programming ii\assignment\project\20160016\project\stock.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513982677 source:g:\second year\programming ii\assignment\project\20160016\project\time.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	<ctime>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1514052570 source:c:\users\lenovo\downloads\compressed\code\admin.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513894715 c:\users\lenovo\downloads\compressed\code\item.h
+
+1513894714 c:\users\lenovo\downloads\compressed\code\person.h
+
+1513894713 c:\users\lenovo\downloads\compressed\code\time.h
+
+1513982278 c:\users\lenovo\downloads\compressed\code\stock.h
+
+1513947490 c:\users\lenovo\downloads\compressed\code\customer.h
+
+1513986278 c:\users\lenovo\downloads\compressed\code\admin.h
+
+1513982677 source:c:\users\lenovo\downloads\compressed\code\customer.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513874444 source:c:\users\lenovo\downloads\compressed\code\item.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513392821 source:c:\users\lenovo\downloads\compressed\code\person.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513983998 source:c:\users\lenovo\downloads\compressed\code\stock.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513982677 source:c:\users\lenovo\downloads\compressed\code\time.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	<ctime>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1514052400 source:c:\users\lenovo\downloads\compressed\code\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1514052570 source:c:\users\lenovo\desktop\code\admin.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513894715 c:\users\lenovo\desktop\code\item.h
+
+1513894714 c:\users\lenovo\desktop\code\person.h
+
+1513894713 c:\users\lenovo\desktop\code\time.h
+
+1513982278 c:\users\lenovo\desktop\code\stock.h
+
+1513947490 c:\users\lenovo\desktop\code\customer.h
+
+1513986278 c:\users\lenovo\desktop\code\admin.h
+
+1513982677 source:c:\users\lenovo\desktop\code\customer.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513874444 source:c:\users\lenovo\desktop\code\item.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1514052400 source:c:\users\lenovo\desktop\code\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513392821 source:c:\users\lenovo\desktop\code\person.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513983998 source:c:\users\lenovo\desktop\code\stock.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513982677 source:c:\users\lenovo\desktop\code\time.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	<ctime>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1514064221 source:d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\admin.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513894715 d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\item.h
+
+1513894714 d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\person.h
+
+1513894713 d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\time.h
+
+1513982278 d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\stock.h
+
+1513947490 d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\customer.h
+
+1513986278 d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\admin.h
+
+1513982677 source:d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\customer.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513874444 source:d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\item.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1514052400 source:d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513392821 source:d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\person.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513983998 source:d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\stock.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
+1513982677 source:d:\#fci-cu #second_year\programing 2 #oop\assignments\project\code\time.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<limits>
+	<windows.h>
+	<ctime>
+	"item.h"
+	"person.h"
+	"Time.h"
+	"stock.h"
+	"customer.h"
+	"admin.h"
+
